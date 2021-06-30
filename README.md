@@ -1,2 +1,2 @@
 # Localization-with-geopy-in-Python
-Using library Geopy in Python 
+Using the Geopy library in Python 
